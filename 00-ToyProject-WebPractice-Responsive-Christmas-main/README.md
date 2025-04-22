@@ -1,4 +1,6 @@
 # Responsive Christmas Website
+## View
+- Fianl Project. [View on Netlify](https://drfg-bedimcode-webpractice-christmas.netlify.app/)
 ## Project
 - Initial project on GitHub. [WebsiteDesign ](https://github.com/bedimcode/responsive-christmas-website-3)
 ## Vedio
