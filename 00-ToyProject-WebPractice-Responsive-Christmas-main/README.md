@@ -21,5 +21,5 @@
 - 模板字面量${}应使用反引号（`）
 - 自动补全容易导致->getDay()与getDate()的错误使用
 ## Preview
-![preview img](/preview.png)
-![preview img](/mobile-preview.png)
+![preview img](/00-ToyProject-WebPractice-Responsive-Christmas-main/preview.png)
+![preview img](/00-ToyProject-WebPractice-Responsive-Christmas-main/mobile-preview.png)
