@@ -21,4 +21,4 @@ Thanks for **Bedimcode**.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 ## Preview
-![preview img](/preview.png)
+![preview img](/01-ToyProject-WebPractice-Responsive-Pizza-main/preview.png)
