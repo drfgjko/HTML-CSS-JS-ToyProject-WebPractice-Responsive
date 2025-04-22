@@ -4,7 +4,7 @@
 
 - 个人学习响应式网页设计的项目集合。
 - 使用HTML/CSS/JavaScript。
-- 
+
 ## 资源来源
 
 本项目的学习资源来自于 **@Bedimcode**。以下是其个人主页：
@@ -13,6 +13,7 @@
 - [YouTube Channel](https://www.youtube.com/@Bedimcode)
 
 **感谢 @  Bedimcode 提供的优秀教程和资源。**
+
 ## 使用
 
 详见各项目文件夹的**README**文件。
