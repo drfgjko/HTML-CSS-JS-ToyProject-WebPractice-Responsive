@@ -12,7 +12,7 @@
 ## 资源来源
 
 本项目的学习资源来自于 **@Bedimcode**。以下是其个人主页：
-
+- [GitHub](https://github.com/bedimcode)
 - [Buy Me A Coffee](https://buymeacoffee.com/bedimcode)
 - [YouTube Channel](https://www.youtube.com/@Bedimcode)
 
